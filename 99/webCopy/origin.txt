@@ -1,0 +1,864 @@
+Uri: http://web991.jiujiupingou.com/
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\index.htm
+Content Type: text/html
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/GoPay.e40df836.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\GoPay.e40df836.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/ManyPGOrderList.a79d1c63.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\ManyPGOrderList.a79d1c63.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/QRcode.a68faa21.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\QRcode.a68faa21.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/Xuanzedizhi.2960234b.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\Xuanzedizhi.2960234b.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/aboutjiujiu.439d2e87.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\aboutjiujiu.439d2e87.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/accountAdmin.bf292666.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\accountAdmin.bf292666.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/addandeditaddress.389575c5.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\addandeditaddress.389575c5.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/addandeditaddress~address~gaddress~newAddress~returnAddress.462b4a1a.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\addandeditaddress~address~gaddress~newAddress~returnAddress.462b4a1a.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/address.260b5fe4.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\address.260b5fe4.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/addressmanagement.08d58158.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\addressmanagement.08d58158.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/againPsd.e28600f9.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\againPsd.e28600f9.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/balance.7b5b308f.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\balance.7b5b308f.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/bnewWithdrawal.3ab241e6.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\bnewWithdrawal.3ab241e6.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/broadcast.2f762c3f.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\broadcast.2f762c3f.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/buyCard.e2743190.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\buyCard.e2743190.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/card.12c39c48.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\card.12c39c48.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/cardDetail.b652c90a.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\cardDetail.b652c90a.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/cashing.1a34f835.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\cashing.1a34f835.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/commodittypepreviewDeatils.5221543f.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\commodittypepreviewDeatils.5221543f.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/commodittypepreviewDeatilsNew.5221543f.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\commodittypepreviewDeatilsNew.5221543f.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/commoditypreview.3cfbe046.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\commoditypreview.3cfbe046.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/commoditypreviewNew.cd279614.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\commoditypreviewNew.cd279614.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/complaint.85ba6ee7.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\complaint.85ba6ee7.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/complaintList.6f16bd8f.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\complaintList.6f16bd8f.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/confirm.5430a90a.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\confirm.5430a90a.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/confirmOrder.897101d8.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\confirmOrder.897101d8.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/consumptionJIn.7adc5ec2.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\consumptionJIn.7adc5ec2.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/details.8081f923.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\details.8081f923.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/editBuyPassword.850508d6.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\editBuyPassword.850508d6.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/editpassword.d37b0767.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\editpassword.d37b0767.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/elife.17c0ba50.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\elife.17c0ba50.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/exchangerecord.b7285c20.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\exchangerecord.b7285c20.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/exchangerecordOrder.5b9c5c39.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\exchangerecordOrder.5b9c5c39.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/exchangerule.3f44efbb.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\exchangerule.3f44efbb.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/focas.d10185e2.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\focas.d10185e2.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/focasNine.dce4eba7.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\focasNine.dce4eba7.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/fugouDetails.1093e09b.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\fugouDetails.1093e09b.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/fugouList.25d78a4d.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\fugouList.25d78a4d.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/fugoupay.ecea8677.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\fugoupay.ecea8677.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/gaddress.7724ef0a.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\gaddress.7724ef0a.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/game.da31b3a3.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\game.da31b3a3.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/goodsDetail.7799a7fd.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\goodsDetail.7799a7fd.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/goplayPintuan.09e7e776.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\goplayPintuan.09e7e776.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/groupworkdetails.215b149f.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\groupworkdetails.215b149f.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/login.c902a711.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\login.c902a711.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/manyPGOrderListDetails.b2f70383.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\manyPGOrderListDetails.b2f70383.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/myShop.88425c5e.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\myShop.88425c5e.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/myfightforfriends.3b611ab2.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\myfightforfriends.3b611ab2.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/newAccount.73fb97c1.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\newAccount.73fb97c1.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/newAddress.fda5da7f.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\newAddress.fda5da7f.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/newSelectNow.dfc55be3.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\newSelectNow.dfc55be3.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/newTeam.fe0080a0.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\newTeam.fe0080a0.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/newTeamGoPay.bb74ab82.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\newTeamGoPay.bb74ab82.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/newTeamOrderList.c3986e73.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\newTeamOrderList.c3986e73.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/newWithdrawal.bcd0e860.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\newWithdrawal.bcd0e860.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/newXuanzedizhi.d86cdc0c.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\newXuanzedizhi.d86cdc0c.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/newpeopletask.7c5eed2a.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\newpeopletask.7c5eed2a.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/noteVerify.40a9c1ad.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\noteVerify.40a9c1ad.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/noticelist.66c77fa7.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\noticelist.66c77fa7.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/noticelistdetails.b6730e92.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\noticelistdetails.b6730e92.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/operation.ef868c6c.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\operation.ef868c6c.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/orderDetail.c1c453de.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\orderDetail.c1c453de.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/orderList.dbf6a38b.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\orderList.dbf6a38b.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/orderListDetails.a94edbbf.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\orderListDetails.a94edbbf.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/orderListFugou.efef2d4d.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\orderListFugou.efef2d4d.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/paysuccess.1a2e66cb.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\paysuccess.1a2e66cb.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/principalReturn.70ef1af6.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\principalReturn.70ef1af6.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/productdetails.81bf4316.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\productdetails.81bf4316.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/realname.f8a5c185.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\realname.f8a5c185.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/recordReturn.656911c9.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\recordReturn.656911c9.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/register.4ee00a54.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\register.4ee00a54.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/registerAgreement.8e6898ee.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\registerAgreement.8e6898ee.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/registerCode.9b06180f.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\registerCode.9b06180f.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/repetitionShop.81e2f6e3.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\repetitionShop.81e2f6e3.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/repurchase.331d7cee.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\repurchase.331d7cee.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/returnAddress.3e492469.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\returnAddress.3e492469.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/returnSelectNow.72717f28.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\returnSelectNow.72717f28.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/returnXuanzedizhi.f497f240.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\returnXuanzedizhi.f497f240.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/scanCode.120ecbe7.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\scanCode.120ecbe7.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/search.f7a1fae6.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\search.f7a1fae6.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/searchdetails.19094fa6.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\searchdetails.19094fa6.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/selectNow.15eb7514.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\selectNow.15eb7514.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/service.a10bb57f.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\service.a10bb57f.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/setPassword.ef31a44b.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\setPassword.ef31a44b.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/shopIndex.97ec9a34.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\shopIndex.97ec9a34.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/shopList.e03d9453.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\shopList.e03d9453.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/shopdetails.e057481e.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\shopdetails.e057481e.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/shopintegral.d72d557d.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\shopintegral.d72d557d.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/usagedetails.5e874c5d.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\usagedetails.5e874c5d.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/user.17628580.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\user.17628580.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/userDetails.32b81153.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\userDetails.32b81153.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/video.5b225aca.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\video.5b225aca.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/wanPayment.4dc36647.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\wanPayment.4dc36647.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/wangjiPassword.185fe6b1.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\wangjiPassword.185fe6b1.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/winningBack.f6364290.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\winningBack.f6364290.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/withdrawal.7cf6cd0d.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\withdrawal.7cf6cd0d.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/xuanzedizhi.88498803.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\xuanzedizhi.88498803.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/xuanzeshop.660a7a08.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\xuanzeshop.660a7a08.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/yinsizhengce.a25d3770.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\yinsizhengce.a25d3770.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/zhucexieyi.a25d3770.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\zhucexieyi.a25d3770.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/GoPay.6fe00ea0.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\GoPay.6fe00ea0.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/ManyPGOrderList.08e86cee.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\ManyPGOrderList.08e86cee.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/QRcode.eb5d4e86.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\QRcode.eb5d4e86.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/QRcode~cashing~iframeZhifu~orderQrcode.e03de933.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\QRcode~cashing~iframeZhifu~orderQrcode.e03de933.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/Xuanzedizhi.c9e99df2.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\Xuanzedizhi.c9e99df2.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/aboutjiujiu.f74acf82.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\aboutjiujiu.f74acf82.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/accountAdmin.1ab60576.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\accountAdmin.1ab60576.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/addandeditaddress.6843e91b.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\addandeditaddress.6843e91b.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/addandeditaddress~address~gaddress~newAddress~returnAddress.4bd96428.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\addandeditaddress~address~gaddress~newAddress~returnAddress.4bd96428.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/address.384a7878.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\address.384a7878.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/addressmanagement.d7e0db69.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\addressmanagement.d7e0db69.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/advertisement.7f6d5ef4.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\advertisement.7f6d5ef4.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/againPsd.1101808b.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\againPsd.1101808b.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/balance.9bda46eb.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\balance.9bda46eb.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/bnewWithdrawal.0ab50efb.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\bnewWithdrawal.0ab50efb.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/broadcast.7d17b528.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\broadcast.7d17b528.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/buyCard.19cb0cec.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\buyCard.19cb0cec.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/card.0b721586.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\card.0b721586.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/cardDetail.b861a676.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\cardDetail.b861a676.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/cashing.602fc993.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\cashing.602fc993.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/commodittypepreviewDeatils.a8822b81.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\commodittypepreviewDeatils.a8822b81.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/commodittypepreviewDeatilsNew.3b4160d2.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\commodittypepreviewDeatilsNew.3b4160d2.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/commoditypreview.124a83db.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\commoditypreview.124a83db.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/commoditypreviewNew.59e6f797.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\commoditypreviewNew.59e6f797.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/complaint.c11f10c2.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\complaint.c11f10c2.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/complaintList.bcc2eea8.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\complaintList.bcc2eea8.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/confirm.cd5a92d0.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\confirm.cd5a92d0.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/confirmOrder.687ec837.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\confirmOrder.687ec837.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/consumptionJIn.3cd16aee.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\consumptionJIn.3cd16aee.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/details.1ff17110.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\details.1ff17110.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/editBuyPassword.a7e78200.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\editBuyPassword.a7e78200.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/editpassword.b51976fa.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\editpassword.b51976fa.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/elife.a53d4602.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\elife.a53d4602.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/exchangerecord.a8c19938.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\exchangerecord.a8c19938.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/exchangerecordOrder.677c1a8e.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\exchangerecordOrder.677c1a8e.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/exchangerule.1ab13358.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\exchangerule.1ab13358.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/focas.dff38cf6.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\focas.dff38cf6.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/focasNine.807b1fd4.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\focasNine.807b1fd4.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/fugouDetails.e6def802.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\fugouDetails.e6def802.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/fugouList.69174995.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\fugouList.69174995.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/fugoupay.7d220167.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\fugoupay.7d220167.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/gaddress.36a0b6ea.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\gaddress.36a0b6ea.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/game.b1357615.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\game.b1357615.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/goodsDetail.4e022525.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\goodsDetail.4e022525.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/goplayPintuan.bd2ccc83.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\goplayPintuan.bd2ccc83.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/groupworkdetails.7b56cce3.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\groupworkdetails.7b56cce3.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/iframeZhifu.9cc58dbc.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\iframeZhifu.9cc58dbc.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/login.abc29d89.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\login.abc29d89.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/manyPGOrderListDetails.edb96b7d.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\manyPGOrderListDetails.edb96b7d.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/myShop.cbb1ebb9.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\myShop.cbb1ebb9.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/myfightforfriends.1ad5aa74.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\myfightforfriends.1ad5aa74.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/newAccount.62704b1c.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\newAccount.62704b1c.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/newAddress.b1088134.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\newAddress.b1088134.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/newSelectNow.95f155dd.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\newSelectNow.95f155dd.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/newTeam.f64f1ea1.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\newTeam.f64f1ea1.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/newTeamGoPay.7a0eb5fd.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\newTeamGoPay.7a0eb5fd.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/newTeamOrderList.62e411a8.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\newTeamOrderList.62e411a8.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/newWithdrawal.008ff6ff.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\newWithdrawal.008ff6ff.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/newXuanzedizhi.9e8c65f1.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\newXuanzedizhi.9e8c65f1.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/newpeopletask.e491efda.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\newpeopletask.e491efda.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/noteVerify.823ae69a.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\noteVerify.823ae69a.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/noticelist.098432b0.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\noticelist.098432b0.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/noticelistdetails.b282ece9.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\noticelistdetails.b282ece9.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/operation.f5d01555.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\operation.f5d01555.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/operation~userDetails.1956e545.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\operation~userDetails.1956e545.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/orderDetail.006d5324.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\orderDetail.006d5324.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/orderList.6690f05d.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\orderList.6690f05d.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/orderListDetails.ef9eb34c.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\orderListDetails.ef9eb34c.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/orderListFugou.5b60878b.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\orderListFugou.5b60878b.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/orderQrcode.ba90e72c.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\orderQrcode.ba90e72c.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/paysuccess.f577da6f.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\paysuccess.f577da6f.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/principalReturn.5af8192c.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\principalReturn.5af8192c.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/productdetails.1e9425fa.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\productdetails.1e9425fa.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/realname.8410b1de.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\realname.8410b1de.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/recordReturn.c6138433.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\recordReturn.c6138433.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/register.e64977f9.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\register.e64977f9.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/registerAgreement.bb8576b4.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\registerAgreement.bb8576b4.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/registerCode.327142f3.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\registerCode.327142f3.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/repetitionShop.d0c71411.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\repetitionShop.d0c71411.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/repurchase.13a7033f.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\repurchase.13a7033f.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/returnAddress.ced829b7.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\returnAddress.ced829b7.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/returnSelectNow.f574560c.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\returnSelectNow.f574560c.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/returnXuanzedizhi.c75a47cb.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\returnXuanzedizhi.c75a47cb.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/scanCode.83473ab6.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\scanCode.83473ab6.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/search.1cb5e861.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\search.1cb5e861.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/searchdetails.a9c4cda1.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\searchdetails.a9c4cda1.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/selectNow.90c85a39.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\selectNow.90c85a39.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/service.110a9190.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\service.110a9190.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/setPassword.4bf07d2c.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\setPassword.4bf07d2c.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/shopIndex.12f501e6.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\shopIndex.12f501e6.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/shopList.ae8e8ebf.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\shopList.ae8e8ebf.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/shopdetails.de26d643.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\shopdetails.de26d643.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/shopintegral.f85b6d88.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\shopintegral.f85b6d88.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/usagedetails.ece86fa0.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\usagedetails.ece86fa0.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/user.897956e9.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\user.897956e9.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/userDetails.b1f2e39c.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\userDetails.b1f2e39c.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/video.7cfa816a.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\video.7cfa816a.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/wanPayment.b4e3d419.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\wanPayment.b4e3d419.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/wangjiPassword.2e6ffd99.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\wangjiPassword.2e6ffd99.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/welfareSociety.8dc3afbf.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\welfareSociety.8dc3afbf.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/winningBack.22d34247.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\winningBack.22d34247.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/withdrawal.7b27b82e.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\withdrawal.7b27b82e.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/xuanzedizhi.7e011fb8.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\xuanzedizhi.7e011fb8.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/xuanzeshop.7325f90c.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\xuanzeshop.7325f90c.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/yinsizhengce.3ef8e410.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\yinsizhengce.3ef8e410.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/zhucexieyi.dba5f5cd.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\zhucexieyi.dba5f5cd.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/app.0c252aec.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\app.0c252aec.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/css/chunk-vendors.8717c8a6.css
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\css\chunk-vendors.8717c8a6.css
+Content Type: text/css
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/app_4d43ea37.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\app_4d43ea37.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/js/chunk-vendors.b9b68ced.js
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\js\chunk-vendors.b9b68ced.js
+Content Type: application/javascript
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/img/icons/favicon-32x32.png
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\img\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/img/icons/favicon-16x16.png
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\img\icons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/img/icons/apple-touch-icon-152x152.png
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\img\icons\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/img/icons/safari-pinned-tab.svg
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\img\icons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://static.jiujiupingou.com/H5Static/w1/fonts/VideoJS.46ac6629.eot?
+File Name: F:\Mxt\codeLab\webCopy\99\web991.jiujiupingou.com\H5Static\w1\fonts\VideoJS.46ac6629.eot
+Content Type: application/vnd.ms-fontobject
+

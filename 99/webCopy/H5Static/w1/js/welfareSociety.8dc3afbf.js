@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["welfareSociety"],{a1b5:function(e,n,t){"use strict";t.r(n);var l=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div")},a=[],c={},r=c,u=t("2877"),i=Object(u["a"])(r,l,a,!1,null,null,null);n["default"]=i.exports}}]);
+//# sourceMappingURL=welfareSociety.8dc3afbf.js.map

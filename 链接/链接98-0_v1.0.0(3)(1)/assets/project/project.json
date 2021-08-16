@@ -1,0 +1,16 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "3B665C7D-26",
+    "build_number": 26,
+    "build_time": 1626249451333
+  },
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "main": "main.js",
+  "name": "链接98-0",
+  "packageName": "Lianjie98My.apk",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
