@@ -332,7 +332,7 @@
             //     nuandouAndroid.onItemClick(JSON.stringify(data.data.advData));
             //   }
             // }, 2000);
-            this.$router.push('/game') // Change: /newTeam/video
+            this.$router.push('/newTeam/video')
           } else {   
             this.toGameKey = false
           }

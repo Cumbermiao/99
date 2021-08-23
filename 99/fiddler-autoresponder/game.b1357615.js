@@ -390,7 +390,7 @@
             this.list1 = JSON.parse(localStorage.getItem("list"));
           },
           mounted: function () {
-            const delay = parseInt(Math.random()*10 + 10)
+            const delay = 5
             console.log(`在${delay}s后开始抽奖`)
             setTimeout(()=>{
               this.action()
@@ -424,10 +424,10 @@
                     console.warn('未中奖')
                   }
                 }).finally(()=>{
-                  const delay= parseInt(Math.random()*10+15)
+                  const delay= parseInt(Math.random()*10+45)
                   console.log(`${delay}s 返回 myShop`)
                   setTimeout(()=>{
-                    t.$router.push('/newTeam/myShop')
+                    t.close()
                   },delay*1000)
                 })
               },
